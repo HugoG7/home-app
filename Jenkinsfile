@@ -12,5 +12,10 @@ pipeline {
         sh 'cd backend && npm install'
       }
     }
+    stage('Deploy') {
+      steps {
+        sh 'node app'
+      }
+    }
   }
 }
