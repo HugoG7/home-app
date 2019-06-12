@@ -1,0 +1,14 @@
+{
+  "name": "home-service",
+  "version": "1.0.0",
+  "description": "Devops purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "Hugo Garza",
+  "license": "ISC"
+}
